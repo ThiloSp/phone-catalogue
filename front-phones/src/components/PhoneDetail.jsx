@@ -67,8 +67,11 @@ function mapStateToProps(state) {
     state: state
   };
 }
+const mapDispatchToProps = {
+  getPhone
+};
 
 export default connect(
   mapStateToProps,
-  { getPhone }
+  mapDispatchToProps
 )(PhoneDetail);

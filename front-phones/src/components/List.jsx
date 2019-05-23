@@ -43,8 +43,11 @@ function mapStateToProps(state) {
     state: state
   };
 }
+const mapDispatchToProps = {
+  getList
+};
 
 export default connect(
   mapStateToProps,
-  { getList }
+  mapDispatchToProps
 )(List);
