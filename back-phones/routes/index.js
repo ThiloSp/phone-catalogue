@@ -26,7 +26,7 @@ router.get("/phones", (req, res, next) => {
       rating: 7.7,
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      picture: "https://media.didi.ua/images/catalog/product_gallery/thumb/Tmybrk3d7BRj.png"
+      picture: "https://www.t-mobile.nl/Consumer/media/images/shop/telefoons/toestelmerken/apple/iphone-8/black/dvi-front-back_Iphone_8Plus_Zwart_305x450.png"
     },
     {
       name: "Samsung Galaxy",
